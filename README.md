@@ -9,4 +9,4 @@ I'm Cissy Li. 😉
 - 🏫 I'm a PhD student at the University of Hong Kong Department of Architecture.
 - 🌱 I’m working on **Digital Design and Fabrication** and **Nature-based Solutions** for urban space.
 - 🏗️ I’m looking to collaborate on **bio-material design and manufacturing**, **multi-species building design**, and **HCI**.
-- 💡 I’m seeking help with **interactive space design** and **3D printing** projects.
+- 💡 I can offer support on **interactive bio-material design** and **3D printing** projects in potential collaborations.
